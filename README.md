@@ -65,7 +65,7 @@ $ sudo pacman -S --needed install gcc make pkg-config automake libtool alsa-lib
 
 - Install *pkg-config*, *automake*, *libtool*, *pcre2* and *PortAudio*
   ```
-  $ brew install pkg-config automake libtool portaudio pcre2
+  $ brew install pkg-config automake libtool portaudio pcre2 md5sha1sum
   ```
 
 ### Windows
